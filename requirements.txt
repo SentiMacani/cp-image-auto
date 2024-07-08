@@ -1,0 +1,24 @@
+adbutils==2.7.2
+Appium_Python_Client==4.0.0
+Appium_Python_Client==4.0.0
+eth_account==0.11.2
+fake_useragent==1.5.1
+Faker==24.14.0
+mnemonic==0.21
+numpy==2.0.0
+opencv_python==4.10.0.84
+openpyxl==3.1.5
+pandas==2.2.2
+Pillow==10.3.0
+pyfiglet==1.0.2
+python-dotenv==1.0.1
+Requests==2.32.3
+selenium==4.22.0
+termcolor==2.4.0
+web3==6.16.0
+pyfiglet==1.0.2
+<<<<<<< HEAD
+msoffcrypto-tool==5.4.1
+=======
+msoffcrypto-tool==5.4.1
+>>>>>>> a31231c0057f49099e13294d81236989c1b9f18d

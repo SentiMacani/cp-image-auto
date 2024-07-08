@@ -1,0 +1,11 @@
+/__pycache__
+/modules/__pycache__
+/utils/__pycache__
+.DS_Store
+*.iml
+*.xml
+*.pyc
+*.log
+addresses.json
+.pyc
+.idea
